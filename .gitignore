@@ -9,8 +9,6 @@ out/
 coverage/
 
 # Env / local
-.env
-.env.*
 !.env.example
 *.log
 .DS_Store
@@ -20,3 +18,4 @@ data/
 test-data/
 *.db
 *.db-journal
+config.bat
